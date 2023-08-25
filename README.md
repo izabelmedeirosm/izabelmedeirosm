@@ -19,10 +19,8 @@ Estou sempre em busca de melhorar e aperfeiçoar ainda mais meus códigos e habi
 <br/>
 Me acompanha no Linkedin!
 <br/>
-<a href="www.linkedin.com/in/izabelmedeirosm">
-<img 
-  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo.linkedin"/>
-</a>
+www.linkedin.com/in/izabelmedeirosm
+
 <br/>
 <br/>
 Mais informações:
