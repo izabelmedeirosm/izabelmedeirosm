@@ -26,7 +26,6 @@ www.linkedin.com/in/izabelmedeirosm
 Mais informações:
 <br/>
 <br/>
-[![Izabel stats](https://github-readme-stats.vercel.app/api?username=izabelmedeirosm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=izabelmedeirosm)](https://github.com/anuraghazra/github-readme-stats)
 <!---
